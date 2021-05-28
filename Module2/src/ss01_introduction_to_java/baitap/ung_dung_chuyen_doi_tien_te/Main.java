@@ -30,11 +30,11 @@ public class Main {
                    Scanner usd = new Scanner(System.in);
                    USD = usd.nextFloat();
                    VND = USD * 23;
-                   System.out.println("Số Tiền Việt Nam Đồng:  " + VND);
+                   System.out.printf("Số Tiền Việt Nam Đồng: %f  ", VND);
                     check = false ;
                    break;
                default:
-                   break;
+
            }
        }
     }
