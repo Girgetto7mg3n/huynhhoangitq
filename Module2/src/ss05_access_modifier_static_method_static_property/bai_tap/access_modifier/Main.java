@@ -1,4 +1,4 @@
-package ss5_access_modifier_static_method_static_property.bai_tap.access_modifier;
+package ss05_access_modifier_static_method_static_property.bai_tap.access_modifier;
 
 public class Main {
     public static void main(String[] args) {

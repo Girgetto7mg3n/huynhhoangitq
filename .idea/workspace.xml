@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e0dc3949-d6c8-4110-99e5-d7a6c5f6bc9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/ss07_abstract_class_and_interface/thuc_hanh/animal_and_interface_edible/animal/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/ss07_abstract_class_and_interface/thuc_hanh/animal_and_interface_edible/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/ss07_abstract_class_and_interface/thuc_hanh/animal_and_interface_edible/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/ss07_abstract_class_and_interface/thuc_hanh/animal_and_interface_edible/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/ss07_abstract_class_and_interface/thuc_hanh/animal_and_interface_edible/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/ss07_abstract_class_and_interface/thuc_hanh/animal_and_interface_edible/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/ss07_abstract_class_and_interface/thuc_hanh/animal_and_interface_edible/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/ss07_abstract_class_and_interface/thuc_hanh/animal_and_interface_edible/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C0721G1_HuynhTanHoang_Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/C0721G1_HuynhTanHoang_Module2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/ss06_inheritance_java/thuc_hanh/system_of_geometric_objects/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/ss06_inheritance_java/thuc_hanh/system_of_geometric_objects/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/ss5_access_modifier_static_method_static_property/bai_tap/access_modifier/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/ss05_access_modifier_static_method_static_property/bai_tap/access_modifier/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/ss5_access_modifier_static_method_static_property/bai_tap/access_modifier/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/ss05_access_modifier_static_method_static_property/bai_tap/access_modifier/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/ss5_access_modifier_static_method_static_property/bai_tap/xay_dung_lop_chi_ghi_trong_javaassignment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/ss05_access_modifier_static_method_static_property/bai_tap/xay_dung_lop_chi_ghi_trong_javaassignment/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/ss5_access_modifier_static_method_static_property/bai_tap/xay_dung_lop_chi_ghi_trong_javaassignment/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/ss05_access_modifier_static_method_static_property/bai_tap/xay_dung_lop_chi_ghi_trong_javaassignment/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/ss5_access_modifier_static_method_static_property/thuc_hanh/static_method/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/ss05_access_modifier_static_method_static_property/thuc_hanh/static_method/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/ss5_access_modifier_static_method_static_property/thuc_hanh/static_method/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/ss05_access_modifier_static_method_static_property/thuc_hanh/static_method/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/ss5_access_modifier_static_method_static_property/thuc_hanh/static_property/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/ss05_access_modifier_static_method_static_property/thuc_hanh/static_property/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/ss5_access_modifier_static_method_static_property/thuc_hanh/static_property/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/ss05_access_modifier_static_method_static_property/thuc_hanh/static_property/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +50,33 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Module2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle Tasks" flag="true" />
+      <visibility group="Grunt" flag="true" />
+      <visibility group="Gulp" flag="true" />
+      <visibility group="Maven Goals" flag="true" />
+      <visibility group="Node.js" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.RunAnythingRunConfigurationProvider" flag="false" />
+      <visibility group="com.intellij.ide.actions.runAnything.activity.RunAnythingRecentProjectProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.grunt.GruntRunAnythingProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.gulp.GulpRunAnythingProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Npm" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Yarn" flag="false" />
+      <visibility group="com.jetbrains.nodejs.execution.NodeRunAnythingProvider" flag="false" />
+      <visibility group="npm" flag="true" />
+      <visibility group="org.jetbrains.idea.maven.execution.MavenRunAnythingProvider" flag="false" />
+      <visibility group="org.jetbrains.plugins.gradle.execution.GradleRunAnythingProvider" flag="false" />
+      <visibility group="yarn" flag="true" />
+    </myKeys>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,10 +87,25 @@
       <option name="presentableId" value="Default" />
       <updated>1629089308339</updated>
       <workItem from="1629089315499" duration="103000" />
+      <workItem from="1629793422339" duration="39000" />
+      <workItem from="1629793475078" duration="71000" />
+      <workItem from="1629793572978" duration="1064000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
