@@ -1,6 +1,6 @@
-package ss07_abstract_class_and_interface.bai_tap.implement_colorable_interface_for_geometry_assignment_classes;
+package ss07_abstract_class_and_interface.bai_tap.implement_resizeable_interface_for_geometry_classes_assignment.Shape;
 
-public class Shape {
+public abstract class Shape {
     private String color ;
     private boolean filled ;
 
@@ -35,5 +35,7 @@ public class Shape {
                 + " and "
                 + (isFilled() ? "filled" : "not filled");
     }
+
+    public abstract void resize(double percent);
 }
 

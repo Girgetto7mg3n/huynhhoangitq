@@ -1,4 +1,4 @@
-package ss07_abstract_class_and_interface.bai_tap.implement_colorable_interface_for_geometry_assignment_classes;
+package ss07_abstract_class_and_interface.bai_tap.implement_resizeable_interface_for_geometry_classes_assignment.Shape;
 
 public class Rectangle extends Shape {
     private double width = 1.0;
@@ -36,9 +36,6 @@ public class Rectangle extends Shape {
         this.length = length;
     }
 
-     public double getdientich(){
-       return getWidth() * getLength();
-     }
     @Override
     public String toString() {
         return "A Rectangle with" + getWidth()
@@ -47,4 +44,12 @@ public class Rectangle extends Shape {
                                   + " , which is a subclass of "
                                   + super.toString();
     }
+
+    @Override
+    public void resize (double percent) {
+        setWidth(getWidth() * (1 + percent / 100));
+        setLength(getLength() * (1 + percent / 100));
+    }
+
+
 }
